@@ -3,6 +3,7 @@ A simple React.JS "To do", made as a challenge at RocketSeat Ignite Bootcamp
 
 It's simple to run the application, just follow these steps 👨‍🚀:
 
+
 1 - Clone the repository
 
 2 - Install the dependencies using the command "yarn install" or "npm install"
